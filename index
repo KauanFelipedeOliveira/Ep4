@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+        <meta charset="UTF-8">
+        <title>The Last of Us</title>
+        <link rel="stylesheet" href="style.css">
+   </head>
+ <body>
+    
+   <header>
+    <p>The Last of Us</p>
+    <img src="Imagens/logo.png" width="10%" alt="logo">
+    </header>
+    
+       <aside>
+    <h1>Tipos de Infectados</h1>
+   <h3>Corredores</h3>
+    <p>Neste primeiro estágio de contágio, os indivíduos foram infectados há bem pouco tempo. A principal alteração, além do comportamento animalesco, é o ganho de velocidade. Embora ainda tenha uma aparência humana, os corredores podem alcançar velocidades incríveis e costumam atacar em hordas. Após a infecção inicial, a vítima atinge este estágio em um ou dois dias.</p>
+   
+     <img src="Imagens/corredor.jpg" width="75%" alt="zumbi corredor">
+
+   <h3>Perseguidores</h3>
+    <p>No período entre duas semanas e um ano após a infecção, a pessoa se torna o que ficou conhecido como Perseguidor. Já é possível perceber mais mutações em seu corpo, como deformações e a perda de um dos olhos. A perda parcial da visão, contudo, é compensada pelo desenvolvimento de um ainda fraco sistema de ecolocalização.Os infectados neste estágio ganharam o nome de Perseguidores pela forma por meio da qual atacam suas vítimas. Com velocidades ainda maiores, eles perseguem suas vítimas e se escondem em locais escuros ou presos a paredes ou outras superfícies, para atacar no momento mais oportuno.</p>
+
+    <img src="Imagens/perseguidor.png" width="75%" alt="zumbi perseguidor">
+    
+    <h3>Estaladores</h3>
+    <p>Um monstro de estágio de mutação mais avançado, com mais de um de infecção, o Estalador já teve seu corpo tomado pelos fungos, com uma grande quantidade em sua cabeça, o que deformou por completo seu rosto. É completamente cego, mas desenvolveu uma locomoção a partir de ecolocalização e pode detectar presença de outros seres usando esse radar sonoro. Além disso, os Estaladores também possuem uma força sobre-humana.</p>
+
+    <img src="Imagens/estalador.png" width="75%" alt="zumbi estalador">
+
+    <h3>Trôpegos</h3>
+    <p>Estas monstruosas criaturas foram infectadas há muitos anos. Embora sejam lentos e cegos, tornaram-se incrivelmente fortes. Além disso, os fungos que cobrem seu corpo o deixam com uma pele extremamente resistente.Atacam por meio de detonações de parte de seus corpos, arrancando e lançando mortais esporos contra seus oponentes. Apesar de sua forma monstruosa, podem fazer ataques por cima, soltando uma espécie de nuvem ou chuva de esporos.</p>
+
+    <img src="Imagens/tropegos.png" width="75%" alt="zumbi trôpego">
+
+    <h3>Baiacu</h3>
+    <p>Os Trôpegos são semelhantes aos Baiacus. A diferença é que eles são pessoas infectadas há muitos anos e que passaram a habitar áreas com bastante água. Sua resistente pele completamente coberta de fungos lhe proporciona uma aparência extremamente assustadora e agoniante e que não remete ao humano que um dia foi.Não possuem a força física que se destaca nos Estaladores, mas costuma atacar agarrando suas vítimas e as atingindo esporos capazes de ferir seriamente com queimaduras ácidas. Até o primeiro The Last of Us, eram considerados o estágio final da infecção. Quando são mortos, seus esporos explodem, podendo atingir inimigos ainda com uma última nuvem de Cordyceps.</p>
+
+    <img src="Imagens/baiacu.png" width="75%" alt="zumbi baiacu">
+
+    <h3>Rei dos Ratos</h3>
+    <p>Por ter sido apresentado apenas em The Last of Us 2 e por ser um dos chefões do jogo, é provável que só vejamos este monstro em um estágio mais avançado da série. Para chegar à transformação que vemos na imagem, esta criatura passou por diferentes mutações durante 24 anos. E é, até então, a última fase de contágio, última etapa da mutação.O Rei dos Ratos foi formado a partir da união dos corpos de diferentes infectados. Este processo lhe rendeu não apenas uma força colossal, mas também uma resistência incrível. Não morre com ataques de fogo, armas e até bombas, podendo ainda desprender algumas de suas partes infectadas, que passam a atacar com o corpo principal.</p>
+
+   <img src="Imagens/rei dos ratos.png" width="75%" alt="zumbi tao horrendo que nao merece ser descrito">
+       </aside>
+
+         <main>
+       <h3>Prólogo</h3>
+    <p>A história de The Last of Us começa em setembro de 2013 nos subúrbios de Austin, Texas, onde conhecemos Joel Miller e sua filha, Sarah. Sarah dá a Joel um relógio de aniversário, antes de adormecer. Ela logo acorda, no entanto, com o toque do telefone. Ela atende, encontrando seu tio Tommy do outro lado da linha, querendo falar com urgência com seu pai.Ela se levanta para procurá-lo, assistindo a um noticiário antes que uma explosão à distância interrompa a transmissão. Ela desce as escadas no momento em que seu pai entra freneticamente em casa, pegando uma arma antes que seu vizinho Jimmy arrebente a porta de vidro da casa. Jimmy, que Joel afirma estar “doente”, ataca os dois e Joel é forçado a atirar nele.Tommy chega na casa e os dois se juntam a ele em seu carro, encontrando uma cidade em total caos no caminho. Ao entrarem na cidade na tentativa de chegar à ponte para escapar, a encontram congestionada por todos que tiveram a mesma ideia. Eles logo são atacados por um paciente que escapa do hospital próximo, forçando-os a acelerar, eventualmente colidindo com outro veículo e capotando o carro.Ao saírem dos destroços, a perna de Sarah ficou ferida, e Joel precisa carregá-la enquanto ele e Tommy correm para um bar, sendo perseguidos por humanos infectados. Tommy fica no bar para afastar os infectados e diz a Joel para ir para a estrada, onde os encontrará depois.No caminho, sendo perseguidos por infectados, Joel e Sarah são salvos por um soldado, que atira em seus perseguidores. No entanto, quando ele pergunta a seus superiores como lidar com Joel e Sarah, o soldado é instruído a eliminá-los. Joel tenta argumentar com ele, mas o soldado abre fogo. Joel tenta escapar, mas cai, derrubando Sarah no processo. O soldado então caminha até Joel para terminar o serviço, mas Tommy chega na hora e o mata antes que ele possa fazer isso. Joel então corre para Sarah, descobrindo que ela havia levado um tiro no abdômen. Apesar de seus melhores esforços, a menina morre nos braços do pai.</p>
+
+       <h3>American Dreams</h3>
+    <p>Dezenove anos depois, em Boston, encontramos a cidade, como a maioria das outras do país, em quarentena devido ao surto de anos antes. O fungo parasita Cordyceps que começou a transformar humanos em criaturas canibais com morte cerebral devastou o mundo, infectando cerca de 60% da espécie humana e causando o colapso global.Entrando em Boston está uma garota orfã e meio delinquente de 13 anos chamada Ellie, chegando para se matricular em uma escola militar. Quase imediatamente, ela é atacada por um grupo de valentões, mas é resgatada por uma garota chamada Riley, que os coloca para correr. O diretor chega enquanto Riley foge e leva Ellie ao seu escritório para repreendê-la.Em sua discussão, o diretor avisa Ellie sobre as consequências de suas ações, mencionando um “grupo de renegados”, que Ellie imediatamente reconhece como os “Vaga-lumes”. O diretor ataca o grupo, alegando que enquanto a cidade age como se eles fossem heróis, na verdade eles ameaçam a lei e a ordem trazida pelos militares. Ele então pune Ellie enviando-a para limpar um veículo militar.Ela então percebe que seu walkman sumiu e conclui que deve ter sido roubado por Riley durante a briga com os valentões. Mais tarde, ela confronta Riley sobre isso, que admite ter pego, devolvendo enquanto insulta o gosto musical de Ellie.Naquela noite, Ellie observa Riley escapando da escola e a segue. Riley diz a ela para voltar para a cama, mas Ellie se recusa, ameaçando fazer barulho o suficiente para alertar os guardas se Riley não a levar com ela. Elas fogem do prédio e atravessam os telhados da cidade enquanto Riley pergunta a Ellie sobre seus planos para o futuro.Ellie descarta a ideia, não vendo propósito em pensar no futuro em sua situação atual. Riley então explica que logo fará dezesseis anos, quando será forçada a ingressar no exército, e pretende sair antes disso para não viver sobre o controle deles. Riley então muda de assunto, perguntando a Ellie se ela já andou a cavalo, ao que ela responde que não.Riley então decide remediar a situação e leva Ellie a um shopping abandonado próximo. Lá, elas param em um fliperama que não funciona, onde Riley menciona um jogo de luta chamado “The Turning”, antes de partirem e seguirem para uma tenda onde mora um amigo de Riley, Winston. Riley apresenta Ellie a Winston e troca com ele uma garrafa de uísque que ela pegou, para que ele ensine Ellie a andar a cavalo pelo shopping. Depois que eles saem, Riley entra na tenda de Winston para roubar seus suprimentos. Enquanto Ellie e Winston passeiam, eles conversam um pouco sobre sua vida antes do surto, eventualmente retornando para encontrar Riley fora da tenda. Ellie agradece Winston, até que ocorre uma explosão fora do shopping, levando o homem a montar em seu cavalo para investigar, ordenando que as meninas voltem para a escola imediatamente. Depois que ele sai, Riley puxa o walkie-talkie que ela roubou de Winston, frustrando Ellie, que percebe que ela acabou de usá-la para distrair o homem e roubá-lo. Sem se importar, Riley usa o rádio para escutar e descobrir que os Vaga-lumes estão próximos. Na esperança de ajudá-los, ganhar seu favor e se juntar a eles como uma saída do exército, Riley rapidamente corre para encontrá-los, com Ellie relutantemente indo atrás.Seguindo as informações do rádio, Riley e Ellie encontram os Vaga-lumes no meio de uma batalha com os militares. Riley puxa duas granadas de fumaça e as duas as jogam no meio da multidão, proporcionando uma distração para os Vaga-lumes escaparem. Enquanto Riley comemora, no entanto, os soldados abaixo a notam e começam a abrir fogo, forçando as garotas a fugirem. Elas alcançam a segurança, mas isso acaba sendo inútil, pois um infectado se aproxima delas no telhado, quase mordendo e infectando Riley antes que as duas sejam capazes de combatê-lo. Assustada, Ellie abraça Riley depois de saber que ela está segura, mas as duas são forçadas a correr quando mais infectados chegam. Pouco depois, as criaturas são mortas a tiros pelos Vaga-lumes próximos. Riley fica empolgada e informa que foram elas que jogaram as granadas para lhes dar cobertura. Os Vaga-lumes não aceitam a presença das garotas, no entanto, e incapacitam as duas, levando-as de volta para seu esconderijo. Lá, sua líder, Marlene, chega e desamarra as meninas. Marlene dá a Ellie um envelope, instruindo-a a abri-lo quando voltar para a escola. Riley expressa seu desejo de se juntar aos Vaga-lumes, mas Marlene a repreende, enfatizando o perigo de pertencer ao grupo. A conversa delas é então interrompida por Catadores que tentam segurá-los para roubar seus suprimentos, mas Marlene e os Vaga-lumes os matam imediatamente (com a ajuda de Riley). Marlene então a derruba, dizendo a Riley que ela não tem ideia do que os Vaga-lumes sacrificam.Riley retruca, contando sua experiência de ser forçada a matar o próprio pai depois que ele se transformou e matou sua mãe. Marlene minimiza sua história, tentando dissuadir a garota ameaçando-a. Isso faz com que Ellie ataque seu captor Vaga-lume, roubando sua arma e mirando em Marlene, disparando tiros de advertência. Marlene então chama Ellie pelo nome para fazê-la parar. Assustada, Ellie pergunta como Marlene sabe seu nome, e a mulher revela que conheceu a mãe da garota, Anna, antes dela morrer, e que o envelope que ela forneceu era um carta escrita por ela para ser entregue à filha. Marlene então revela que estava cuidando de Ellie de longe, até mesmo armando para que ela fosse enviada para a escola militar como um lugar seguro; como ela prometeu a Anna que faria. Ellie abaixa a arma e a entrega, e as meninas se preparam para ir embora. Antes disso, Marlene dá a Ellie um último presente: um canivete que pertenceu a sua mãe. As meninas então voltam para a escola e, mais tarde, Ellie lê a carta de sua mãe em lágrimas, segurando seu canivete. Pouco depois, Riley sai secretamente da escola e volta para os Vaga-lumes. Tendo passado no teste de força de vontade, ela é aceita no grupo.</p>
+
+   <h3>Left Behind</h3>
+   
+   
+   </main>
+    
+       <footer class="ftr">
+    <p class="alf">feito por:André Bassanes & Kauan Felipe</p>
+       </footer>
+ </body>
+</html>
