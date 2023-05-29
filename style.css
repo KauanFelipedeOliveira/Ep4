@@ -1,0 +1,45 @@
+p{
+    font-size: 15px;  /*tamanho da letra*/
+    font-family: Georgia, 'Times New Roman', Times, serif; /*tamanho da letra*/ 
+    font-style: oblique; /*tamanho da letra*/
+    color: black; /*tamanho da letra*/
+    text-align: center; /*tamanho da letra*/
+    justify-content: space-around; /*tamanho da letra*/
+    font-weight: bolder; /*tamanho da letra*/
+    background: white; /*tamanho da letra*/
+    border-radius: 7.5px; /*tamanho da letra*/
+}
+body{
+    background-color: brown; /*tamanho da letra*/
+    display: grid; /*tamanho da letra*/
+    grid-template-areas: /*tamanho da letra*/
+     "cab cab cab"
+     "sec pri pri"
+     "rod rod rod";
+     grid-template-columns: 20% auto auto; /*tamanho da letra*/
+     grid-template-rows: auto 100v auto; /*tamanho da letra*/
+}
+header{
+    grid-area: cab;
+}
+aside{
+    grid-area: sec;
+}
+main{
+    grid-area: pri;
+}
+footer{
+    grid-area: rod;
+}
+.img{
+    display: inline;
+    margin: 225px 100px 225px;
+    position: relative;
+}
+.ftr{
+    background: linear-gradient(45 deg, rgba(116, 116, 116, 0.808), rgba(43, 43, 43, 0.678));
+    border-radius: 7.5px;
+}
+.alf{
+    text-align: center;
+}
