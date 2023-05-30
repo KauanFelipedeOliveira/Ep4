@@ -1,23 +1,23 @@
 p{
     font-size: 15px;  /*tamanho da letra*/
-    font-family: Georgia, 'Times New Roman', Times, serif; /*tamanho da letra*/ 
-    font-style: oblique; /*tamanho da letra*/
-    color: black; /*tamanho da letra*/
-    text-align: center; /*tamanho da letra*/
-    justify-content: space-around; /*tamanho da letra*/
-    font-weight: bolder; /*tamanho da letra*/
-    background: white; /*tamanho da letra*/
-    border-radius: 7.5px; /*tamanho da letra*/
+    font-family: Georgia, 'Times New Roman', Times, serif; /*familia da letra*/ 
+    font-style: oblique; /*estilo da letra*/
+    color: black; /*cor*/
+    text-align: center; /*alinhamento horizontal*/
+    justify-content: space-around; /*alinhamento do eixo principal*/
+    font-weight: bolder; /*intensidade da letra*/
+    background: white; /*fundo da letra*/
+    border-radius: 7.5px; /*defini borda*/
 }
 body{
-    background-color: brown; /*tamanho da letra*/
-    display: grid; /*tamanho da letra*/
-    grid-template-areas: /*tamanho da letra*/
+    background-color: brown; /*cor de fundo*/
+    display: grid; /*define grid*/
+    grid-template-areas: /*define o número total de colunas que serão criadas no grid*/
      "cab cab cab"
      "sec pri pri"
      "rod rod rod";
-     grid-template-columns: 20% auto auto; /*tamanho da letra*/
-     grid-template-rows: auto 100v auto; /*tamanho da letra*/
+     grid-template-columns: 20% auto auto; /*define o numero total de colunas que serão criadas no grid*/
+     grid-template-rows: auto 100v auto; /*define linhas de início e linhas de término*/
 }
 header{
     grid-area: cab;
