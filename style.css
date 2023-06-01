@@ -1,26 +1,32 @@
 p{
-    font-size: 15px;  /*tamanho da letra*/
-    font-family: Georgia, 'Times New Roman', Times, serif; /*familia da letra*/ 
-    font-style: oblique; /*estilo da letra*/
+    font-size: 15px;  /*tamanho da fonte*/
+    font-family: Georgia, 'Times New Roman', Times, serif; /*familia das fontes*/ 
+    font-style: oblique; /*estilo da fonte*/
     color: black; /*cor*/
-    text-align: center; /*alinhamento horizontal*/
-    justify-content: space-around; /*alinhamento do eixo principal*/
-    font-weight: bolder; /*intensidade da letra*/
-    background: white; /*fundo da letra*/
-    border-radius: 7.5px; /*defini borda*/
+    text-align: center; /*alinhamento horizontal do texto*/
+    justify-content: space-around; /*alinhar eixo principal*/
+    font-weight: bolder; /*intensidade da fonte*/
+    background: gray; /*fundo*/
+    border-radius: 7.5px; /*define borda*/
+    border-style: solid;
 }
 body{
-    background-color: brown; /*cor de fundo*/
+    background-image: linear-gradient(rgb(85, 21, 21),rgb(112, 13, 54),rgb(54, 8, 34));/*cor fundo*/
+    background-size: cover;
+    text-align: center; /*alinhamento do texto*/
+    background-attachment: fixed; /*fixa imagem*/
+    justify-content: space-around; /*alinhamento ao lado do outro*/
     display: grid; /*define grid*/
-    grid-template-areas: /*define o número total de colunas que serão criadas no grid*/
+    grid-template-areas: /*define o numero total de colunas que serao criadas no grid*/
      "cab cab cab"
      "sec pri pri"
      "rod rod rod";
-     grid-template-columns: 20% auto auto; /*define o numero total de colunas que serão criadas no grid*/
-     grid-template-rows: auto 100v auto; /*define linhas de início e linhas de término*/
+     grid-template-columns: 20% auto auto; /*define o numero total de colunas que serao criadas no grid*/
+     grid-template-rows: auto 100v auto; /*define linhas de inicio e linhas de termino*/
 }
 header{
     grid-area: cab;
+    background: rgb(116, 108, 108);
 }
 aside{
     grid-area: sec;
@@ -30,16 +36,30 @@ main{
 }
 footer{
     grid-area: rod;
+    background: linear-gradient(45 deg, rgba(116, 116, 116, 0.808), rgba(43, 43, 43, 0.678));
+    border-radius: 7.5px;
+    text-align: center;
+}
+.princi{
+    font-size:30px;  /*tamanho da fonte*/
+    font-family: Georgia, 'Times New Roman', Times, serif; /*familia das fontes*/ 
+    font-style: oblique; /*estilo da fonte*/
+    color: black; /*cor*/
+    text-align: center; /*alinhamento horizontal do texto*/
+    justify-content: space-around; /*alinhar eixo principal*/
+    font-weight: bolder; /*intensidade da fonte*/
+    background: gray; /*fundo*/
+    border-radius: 7.5px; /*define borda*/
+    border-style: solid;
 }
 .img{
     display: inline;
     margin: 225px 100px 225px;
     position: relative;
 }
-.ftr{
-    background: linear-gradient(45 deg, rgba(116, 116, 116, 0.808), rgba(43, 43, 43, 0.678));
-    border-radius: 7.5px;
-}
-.alf{
-    text-align: center;
+#logo{
+    height: 100px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
 }
