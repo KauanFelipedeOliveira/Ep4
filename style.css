@@ -8,25 +8,25 @@ p{
     font-weight: bolder; /*intensidade da fonte*/
     background: gray; /*fundo*/
     border-radius: 7.5px; /*define borda*/
-    border-style: solid;
+    border-style: solid; /*estilo da borda*/
 }
 body{
     background-image: linear-gradient(rgb(85, 21, 21),rgb(112, 13, 54),rgb(54, 8, 34));/*cor fundo*/
-    background-size: cover;
+    background-size: cover; /*tamanho que o fundo ira cobrir*/
     text-align: center; /*alinhamento do texto*/
     background-attachment: fixed; /*fixa imagem*/
     justify-content: space-around; /*alinhamento ao lado do outro*/
     display: grid; /*define grid*/
-    grid-template-areas: /*define o numero total de colunas que serao criadas no grid*/
+    grid-template-areas: 
      "cab cab cab"
      "sec pri pri"
-     "rod rod rod";
+     "rod rod rod"; /*define o numero total de colunas que serao criadas no grid*/
      grid-template-columns: 20% auto auto; /*define o numero total de colunas que serao criadas no grid*/
      grid-template-rows: auto 100v auto; /*define linhas de inicio e linhas de termino*/
 }
 header{
     grid-area: cab;
-    background: rgb(116, 108, 108);
+    background: rgb(116, 108, 108); /*cor*/
 }
 aside{
     grid-area: sec;
@@ -36,9 +36,9 @@ main{
 }
 footer{
     grid-area: rod;
-    background: linear-gradient(45 deg, rgba(116, 116, 116, 0.808), rgba(43, 43, 43, 0.678));
-    border-radius: 7.5px;
-    text-align: center;
+    background: linear-gradient(45 deg, rgba(116, 116, 116, 0.808), rgba(43, 43, 43, 0.678));/*cor*/
+    border-radius: 7.5px; /*borda*/
+    text-align: center; /*alinhamento*/
 }
 .princi{
     font-size:30px;  /*tamanho da fonte*/
@@ -50,16 +50,16 @@ footer{
     font-weight: bolder; /*intensidade da fonte*/
     background: gray; /*fundo*/
     border-radius: 7.5px; /*define borda*/
-    border-style: solid;
+    border-style: solid; /*estilo da borda*/
 }
 .img{
-    display: inline;
-    margin: 225px 100px 225px;
-    position: relative;
+    display: inline;/*posicionamento lado a lado*/
+    margin: 225px 100px 225px; /*margem*/
+    position: relative; /*posiçao*/
 }
 #logo{
-    height: 100px;
-    height: 150px;
-    border-radius: 50%;
-    position: relative;
+    height: 100px; /*tamanho*/
+    height: 150px; /*tamanho*/
+    border-radius: 50%; /*borda*/
+    position: relative; /*posiçao*/
 }
