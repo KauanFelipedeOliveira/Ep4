@@ -9,12 +9,11 @@ p{
     background: gray; /*fundo*/
     border-radius: 7.5px; /*define borda*/
     border-style: solid; /*estilo da borda*/
+    /*estilos e definiçoes das fontes*/
 }
 body{
     background-image: linear-gradient(rgb(85, 21, 21),rgb(112, 13, 54),rgb(54, 8, 34));/*cor fundo*/
-    background-size: cover; /*tamanho que o fundo ira cobrir*/
-    text-align: center; /*alinhamento do texto*/
-    background-attachment: fixed; /*fixa imagem*/
+    text-align: center; /*alinhamento do texto*/  
     justify-content: space-around; /*alinhamento ao lado do outro*/
     display: grid; /*define grid*/
     grid-template-areas: 
@@ -23,22 +22,27 @@ body{
      "rod rod rod"; /*define o numero total de colunas que serao criadas no grid*/
      grid-template-columns: 20% auto auto; /*define o numero total de colunas que serao criadas no grid*/
      grid-template-rows: auto 100v auto; /*define linhas de inicio e linhas de termino*/
+    /*define o estilo do body e seus grids*/
 }
 header{
     grid-area: cab;
     background: rgb(116, 108, 108); /*cor*/
+    /*adiciona grid e um fundo*/
 }
 aside{
     grid-area: sec;
+    /*adiciona grid*/
 }
 main{
     grid-area: pri;
+    /*adiciona grid*/
 }
 footer{
     grid-area: rod;
     background: linear-gradient(45 deg, rgba(116, 116, 116, 0.808), rgba(43, 43, 43, 0.678));/*cor*/
     border-radius: 7.5px; /*borda*/
     text-align: center; /*alinhamento*/
+    /*adiciona grid e um fundo*/
 }
 .princi{
     font-size:30px;  /*tamanho da fonte*/
@@ -51,15 +55,18 @@ footer{
     background: gray; /*fundo*/
     border-radius: 7.5px; /*define borda*/
     border-style: solid; /*estilo da borda*/
+    /*estilo e definiçoes, sendo usados nos h1 e h3*/
 }
 .img{
     display: inline;/*posicionamento lado a lado*/
     margin: 225px 100px 225px; /*margem*/
     position: relative; /*posiçao*/
+    /*definiçoes das imagens*/
 }
 #logo{
     height: 100px; /*tamanho*/
     height: 150px; /*tamanho*/
     border-radius: 50%; /*borda*/
     position: relative; /*posiçao*/
+    /*definiçoes da logo*/
 }
