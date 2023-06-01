@@ -61,6 +61,7 @@ footer{
     display: inline;/*posicionamento lado a lado*/
     margin: 225px 100px 225px; /*margem*/
     position: relative; /*posiçao*/
+    border-radius: 7.5px; /*define borda*/
     /*definiçoes das imagens*/
 }
 #logo{
